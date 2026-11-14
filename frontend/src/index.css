@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "@fontsource-variable/inter";
+
+@theme {
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
+
+  --color-brand-50: #eef3fd;
+  --color-brand-100: #d9e3fa;
+  --color-brand-600: #1a56b8;
+  --color-brand-700: #154696;
+  --color-surface: #f9f9ff;
+  --color-accent: #7fd6c2;
+}
